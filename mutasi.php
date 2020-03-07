@@ -1,7 +1,7 @@
 <?php
 
-$userid = "";
-$pwd = "";
+$userid = "0073216386";
+$pwd = "430705";
 
 @date_default_timezone_set('Asia/Jakarta');
 class BCA{
